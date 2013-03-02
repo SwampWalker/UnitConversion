@@ -1,4 +1,4 @@
-package arcanumPrototype;
+package atonita.unitconversion.arcanumprototype;
 
 import java.io.File;
 

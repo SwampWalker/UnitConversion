@@ -1,4 +1,4 @@
-package dimensionalAnalysis;
+package atonita.unitconversion.dimensionalanalysis;
 
 public final class SIConstants {
 	// First, a unitless number.

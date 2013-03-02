@@ -1,4 +1,4 @@
-package arcanumPrototype;
+package atonita.unitconversion.arcanumprototype;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -22,12 +22,12 @@ import javax.swing.event.DocumentListener;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.Document;
 
-import dimensionalAnalysis.CommonUnits;
-import dimensionalAnalysis.Dimension;
-import dimensionalAnalysis.PhysicalQuantity;
-import dimensionalAnalysis.SIConstants;
-import dimensionalAnalysis.SIQuantity;
-import dimensionalAnalysis.UnitSystem;
+import atonita.unitconversion.dimensionalanalysis.CommonUnits;
+import atonita.unitconversion.dimensionalanalysis.Dimension;
+import atonita.unitconversion.dimensionalanalysis.PhysicalQuantity;
+import atonita.unitconversion.dimensionalanalysis.SIConstants;
+import atonita.unitconversion.dimensionalanalysis.SIQuantity;
+import atonita.unitconversion.dimensionalanalysis.UnitSystem;
 
 public class QuantityPanel extends JPanel implements ActionListener, DocumentListener {
 	/**

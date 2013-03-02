@@ -1,4 +1,4 @@
-package rationalNumbers;
+package atonita.unitconversion.rationalnumbers;
 
 public class RationalAnalysis {
 	public static RationalNumber det(RationalNumber [][] array) throws IllegalArgumentException {

@@ -1,4 +1,4 @@
-package dimensionalAnalysis;
+package atonita.unitconversion.dimensionalanalysis;
 
 /**
  * Contains both Imperial quantities and US Customary ones.

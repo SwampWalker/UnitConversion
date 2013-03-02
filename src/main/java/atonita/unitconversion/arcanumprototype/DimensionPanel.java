@@ -1,4 +1,4 @@
-package arcanumPrototype;
+package atonita.unitconversion.arcanumprototype;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -24,9 +24,9 @@ import javax.swing.event.DocumentListener;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.Document;
 
-import rationalNumbers.RationalNumber;
+import atonita.unitconversion.rationalnumbers.RationalNumber;
 
-import dimensionalAnalysis.Dimension;
+import atonita.unitconversion.dimensionalanalysis.Dimension;
 
 /**
  * DimensionPanel is a subclass of JPanel. It is a member of the dimensionalAnalysis package

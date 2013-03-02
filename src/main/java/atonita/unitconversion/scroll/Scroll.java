@@ -1,14 +1,14 @@
-package scroll;
+package atonita.unitconversion.scroll;
 
 import javax.swing.JApplet;
 import javax.swing.JTabbedPane;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import arcanumPrototype.ConvertPanel;
-import arcanumPrototype.DimensionPanel;
-import arcanumPrototype.QuantityPanel;
-import arcanumPrototype.UnitPanel;
+import atonita.unitconversion.arcanumprototype.ConvertPanel;
+import atonita.unitconversion.arcanumprototype.DimensionPanel;
+import atonita.unitconversion.arcanumprototype.QuantityPanel;
+import atonita.unitconversion.arcanumprototype.UnitPanel;
 
 public class Scroll extends JApplet implements ChangeListener {
 	/**

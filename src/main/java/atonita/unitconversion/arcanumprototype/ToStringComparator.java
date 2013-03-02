@@ -1,7 +1,7 @@
 /**
  * 
  */
-package arcanumPrototype;
+package atonita.unitconversion.arcanumprototype;
 
 import java.util.Comparator;
 

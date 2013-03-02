@@ -1,4 +1,4 @@
-package arcanumPrototype;
+package atonita.unitconversion.arcanumprototype;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -14,10 +14,10 @@ import javax.swing.JTextField;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.GroupLayout.ParallelGroup;
 
-import dimensionalAnalysis.CommonUnits;
-import dimensionalAnalysis.Dimension;
-import dimensionalAnalysis.PhysicalQuantity;
-import dimensionalAnalysis.UnitSystem;
+import atonita.unitconversion.dimensionalanalysis.CommonUnits;
+import atonita.unitconversion.dimensionalanalysis.Dimension;
+import atonita.unitconversion.dimensionalanalysis.PhysicalQuantity;
+import atonita.unitconversion.dimensionalanalysis.UnitSystem;
 
 public class ConvertPanel extends JPanel implements ActionListener {
 	/**

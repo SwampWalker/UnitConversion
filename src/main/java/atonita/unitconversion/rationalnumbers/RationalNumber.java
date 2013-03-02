@@ -1,4 +1,4 @@
-package rationalNumbers;
+package atonita.unitconversion.rationalnumbers;
 
 import java.io.Serializable;
 

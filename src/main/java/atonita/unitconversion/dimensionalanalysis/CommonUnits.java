@@ -1,4 +1,4 @@
-package dimensionalAnalysis;
+package atonita.unitconversion.dimensionalanalysis;
 
 public final class CommonUnits {
 	public static final SIQuantity [] SIDerivedUnits = {SIConstants.NEWTON, SIConstants.JOULE, SIConstants.PASCAL, SIConstants.WATT,

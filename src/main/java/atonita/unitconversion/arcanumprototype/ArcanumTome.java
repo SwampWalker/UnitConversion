@@ -1,13 +1,13 @@
-package arcanumPrototype;
+package atonita.unitconversion.arcanumprototype;
 
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import dimensionalAnalysis.Dimension;
-import dimensionalAnalysis.PhysicalQuantity;
-import dimensionalAnalysis.SIQuantity;
-import dimensionalAnalysis.UnitSystem;
+import atonita.unitconversion.dimensionalanalysis.Dimension;
+import atonita.unitconversion.dimensionalanalysis.PhysicalQuantity;
+import atonita.unitconversion.dimensionalanalysis.SIQuantity;
+import atonita.unitconversion.dimensionalanalysis.UnitSystem;
 
 public class ArcanumTome implements Serializable {
 	/**

@@ -1,4 +1,4 @@
-package dimensionalAnalysis;
+package atonita.unitconversion.dimensionalanalysis;
 
 import java.io.Serializable;
 

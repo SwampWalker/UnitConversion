@@ -1,8 +1,8 @@
-package dimensionalAnalysis;
+package atonita.unitconversion.dimensionalanalysis;
 
 import java.io.Serializable;
 
-import rationalNumbers.RationalNumber;
+import atonita.unitconversion.rationalnumbers.RationalNumber;
 
 public class Dimension implements Dimensioned, Serializable {
 	/**
