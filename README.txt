@@ -1,3 +1,5 @@
 Arcanum is a tool to convert between different physical systems of units. Written in Java. The underlying classes can be used in a Java project to quickly change quantities between different unit systems. The Arcanum Prototype GUI can be used to dynamically define unit systems, and convert between them. Some unit systems are set up by default, so it is possibly to immediately convert between Planck units, SI units, CGS units, geometric units and Nuclear physics units.
 
-The easiest way to compile the Arcanum Prototype is to open it as a project under eclipse and to export it to an executable jar file.
+The UnitConversion routines may be used in other Java programs to easily convert between different units or to compute different conversion quantities. This is especially useful if the units are only known at runtime, but can be helpful at compile time for documenting conversions.
+
+UnitConversion is a maven project. It can be imported in a straightforward manner into NetBeans, and used by other Maven projects.
